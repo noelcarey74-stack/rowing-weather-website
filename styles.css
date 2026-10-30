@@ -777,6 +777,16 @@ footer{
   color:#5e7486;
   font-size:.68rem;
 }
+.site-credit{
+  margin:10px 0 0;
+  color:#526a7d;
+  font-size:.67rem;
+}
+.site-credit a{
+  color:#7ea8be;
+  font-weight:700;
+}
+.site-credit a:hover{color:var(--cyan)}
 
 .legal{
   max-width:900px;
