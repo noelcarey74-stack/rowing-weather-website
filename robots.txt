@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: /
 
-Sitemap: https://rowingweather.com/sitemap.xml
+# Preview mode — indexing will be enabled at launch.
